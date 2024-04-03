@@ -1,3 +1,4 @@
+//Test comment
 package com.example;
 
 import net.fabricmc.api.ModInitializer;
